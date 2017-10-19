@@ -1,0 +1,180 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#overlay {
+	display: none;
+	z-index: 2;
+	background: #000;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+	text-align: center;
+}
+div#specialBox {
+	display: none;
+	position: relative;
+	z-index: 3;
+	margin: 1090px auto auto 35%; 
+	width: 700px; 
+	height: 570px;
+}
+
+div#specialBox2 {
+	display: none;
+	position: relative;
+	z-index: 3;
+	margin: 2000px auto auto 35%;
+	width: 700px; 
+	height: 570px;
+}
+
+div#specialBox3 {
+	display: none;
+	position: relative;
+	z-index: 3;
+	margin: 3400px auto auto 35%;
+	width: 700px; 
+	height: 570px;
+}
+
+div#specialBox4 {
+	display: none;
+	position: relative;
+	z-index: 3;
+	margin: 4100px auto auto 35%;
+	width: 700px; 
+	height: 570px;
+}
+
+div#specialBox5 {
+	display: none;
+	position: relative;
+	z-index: 3;
+	margin: 5000px auto auto 35%;
+	width: 700px; 
+	height: 570px;
+}
+
+div#wrapper {
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+/*	padding-left:24px; */
+}
+
+.w3-btn-floating {
+	float: left;
+	margin-top: 35%;
+}
+
+.stJean {
+	float: left;
+}
+
+.masonicLodge {
+	float: left;
+}
+
+.stanleyCenter {
+	float: left;
+}
+
+.francis {
+	float: left;
+}
+
+.nypl {
+	float: left;
+}
+
+#imgArtisan {
+	postion: absolute;
+			 margin-right: 20%;
+			 margin-top: 5%;
+			 width: 136px; 
+			 height: 142px;
+			 position:relative;
+			 float: right; 
+			}
+
+@font-face{
+	font-family:: 'Enriqueta';
+	src:url('https://fonts.googleapis.com/css?family=Enriqueta');
+}
+
+#headerText {
+	postion: relative;
+			 font-family: Helvetica Light;
+	     	 font-size: 14px;
+	     	 font-stretch: expanded;
+			 letter-spacing: 1.5px;
+			 margin-left: 27%;
+         	}
+			
+nav {
+	position: relative;
+	 margin-left: 19%;
+	 font-family: 'Enriqueta', serif;
+	 font-size: 13px;
+    }
+	
+#imgTitle {
+	position: relative;
+	margin-left: 24%;
+	margin-top: 4%;
+	}
+
+#mainText {
+	postion: relative;
+	margin-left: 21%;
+	margin-top: 2%;
+	font-family: 'Enriqueta', serif;
+	font-size: 17px;
+	text-align:justify;
+	width: 914px;
+	word-spacing: 2px;
+}
+
+#serviceTable {
+	position: relative;
+	margin-left: 21%;
+	margin-top: 2%;
+	float: left;
+	width: 925px;
+	height: 300px;
+	border-spacing: 10px;
+	border-collapse:collapse;
+	padding: 0px;
+	font-family: 'Enriqueta', serif;
+	font-size: 17px;
+	word-spacing: 2px;
+}
+
+
+#textLine { text-decoration:underline;
+}
+	
+.fci-content {
+	position: relative;
+	margin-top: 4%;
+	margin-left: 19%;
+}
+
+.myTable {
+	border-spacing: 29px;
+	border-collapse:separate;
+	width: 889px;
+}
+
+th { font-family: 'Enriqueta', serif;
+	 font-size: 17px;
+	 font-weight: lighter;
+}
+.images {
+	width: 230px;
+	height: 305px; 
+}
+

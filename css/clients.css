@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+#imgTitle {
+	margin-left: 20%;
+	margin-top: 4%;
+}
+
+section { 
+    font: Enriquetta;
+    font-size: 17px;
+    width: 450px;
+}
+
+#alignList {
+	float: left;
+	margin-left: 20%;
+	margin-top: 2%;
+}
+
+#alignListII {
+	margin-left: 47%;
+	margin-top: 2%;
+}
+
+#imgTest {
+	margin-left: 19%;
+	margin-top: 4%;
+}
+
+article {
+	margin-left: 27%;
+	margin-top: 4%;
+	font: Enriquetta;
+	font-size: 17px;
+	width: 750px;
+}
+
+#author {
+	margin-left: 4%;
+}
