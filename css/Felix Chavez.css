@@ -4,6 +4,8 @@
 body	{
 		 background-color:#000000;
 	   	 color:#E6C319;
+		 width: 979px;
+		margin: 0 auto;
         }
 
 #imgLogo { 
